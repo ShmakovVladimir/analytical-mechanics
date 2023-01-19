@@ -8,7 +8,7 @@
 
 ##### [Код](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/12_47.ipynb)
 ##### [Анимация 1](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/animation_1.mp4)
-![start](animation_1_conditions.png)
+![start](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/animation_1_conditions.png)
 ![](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/animation_1.gif)
 [Mp4 файл](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/animation_1.mp4)
 
