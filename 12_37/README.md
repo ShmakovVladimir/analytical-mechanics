@@ -1,0 +1,1 @@
+### [Код](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/main.ipynb)
