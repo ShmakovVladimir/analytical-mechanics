@@ -2,9 +2,9 @@
 
 ### Конспекты
 
-- [Сочетания клавиш blender]()
+- [Сочетания клавиш blender](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/keys.md)
 - [Изменение положения и вращение куба](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/SimpleCubeAnimation.md)
-- 
+- [Создание тел, и изменение их положения](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/CubeCreation.md)
 
 ### Статьи 
 
@@ -12,3 +12,7 @@
 
 - [Меши с Python & Blender: двумерная сетка](https://habr.com/ru/post/646527/)
 - [Меши с Python & Blender: кубы и матрицы](https://habr.com/ru/post/647063/)
+
+##### Сочетание клавиш
+
+- [Необходимые сочетания()](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/Blender%203.0%20Shortcuts%20v1.2.pdf)
