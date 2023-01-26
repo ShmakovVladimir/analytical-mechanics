@@ -4,13 +4,18 @@
 ## Уравнения Лагранжа(параграф 12)
 
 ### [Задача 12.47](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/README.md)
-![](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/12_47.gif)
+
+
+ 
+<img align="center" width="480" height="240" src="https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/12_47.gif">
 
 <img align="center" width="480" height="270" src="https://media4.giphy.com/media/iUFeGUjZHuAyMBIFmv/giphy.gif?cid=790b7611b3b1a99baa3a03cd85f91ba2c79861b957b7135d&rid=giphy.gif&ct=g">
 
 
 ### [Задача 12.37](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/README.md)
-![](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/12_37.gif)
+
+<img align="center" width="480" height="120" src="https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/12_37.gif">
+
 
 
 
