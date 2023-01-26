@@ -6,7 +6,7 @@
 ### [Задача 12.47](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/README.md)
 ![](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/12_47.gif)
 
-<iframe src="https://giphy.com/embed/iUFeGUjZHuAyMBIFmv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iUFeGUjZHuAyMBIFmv">via GIPHY</a></p>
+![](https://media4.giphy.com/media/iUFeGUjZHuAyMBIFmv/giphy.gif?cid=790b7611b3b1a99baa3a03cd85f91ba2c79861b957b7135d&rid=giphy.gif&ct=g)
 
 ### [Задача 12.37](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/README.md)
 ![](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/12_37.gif)
