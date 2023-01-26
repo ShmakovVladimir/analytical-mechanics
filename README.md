@@ -13,3 +13,4 @@
 
 #### Библиотеки, используемые в проекте
 - [Sympy - symbolic python](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/sympyLibConspect/sympyLib.ipynb)
+- [Blender API](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/BlenderScriptingSynopsis/README.md)
