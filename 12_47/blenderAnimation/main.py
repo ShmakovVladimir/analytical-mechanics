@@ -10,14 +10,19 @@ def getBigPos(iteration: int)->tuple:
     
 def createScene(cylParametrs: np.ndarray)->list:
     cylDepth,verticesQ = 1.5,200
-    bpy.ops.mesh.primitive_cylinder_add(radius = cylParametrs[0], 
+    bigCylThikness = 0.2
+    suspencionCylRadius, suspencionCylDepth = 0.06, cylDepth*2
+    suspencionCylPos = (0,0,-suspencionCylRadius)
+    
+    bpy.ops.mesh.primitive_cylinder_add(radius = cylParametrs[0]+bigCylThikness, 
                                         depth = cylDepth, 
                                         end_fill_type = 'NOTHING',
                                         location = getBigPos(0),
                                         vertices = verticesQ)
     bigCyl = bpy.context.active_object
     bigCyl.rotation_euler.x = np.pi/2
-    
+    bpy.ops.object.modifier_add(type='SOLIDIFY')
+    bpy.context.object.modifiers["Solidify"].thickness = bigCylThikness
     bpy.ops.mesh.primitive_cylinder_add(radius = cylParametrs[1], 
                                         end_fill_type='NGON', 
                                         location = getSmallPos(0),
@@ -25,6 +30,17 @@ def createScene(cylParametrs: np.ndarray)->list:
                                         vertices = verticesQ)
     smallCyl = bpy.context.active_object
     smallCyl.rotation_euler.x = np.pi/2
+    
+    bpy.ops.mesh.primitive_cylinder_add(radius = suspencionCylRadius, 
+                                        depth = suspencionCylDepth, 
+                                        end_fill_type = 'NGON',
+                                        location = suspencionCylPos,
+                                        vertices = verticesQ)
+    suspencionCyl = bpy.context.active_object
+    suspencionCyl.rotation_euler.x = np.pi/2
+    
+    bpy.ops.mesh.
+    
     return [bigCyl,smallCyl]
 
 def createKeyFrames(cylinders: list)->None:
@@ -38,10 +54,17 @@ def createKeyFrames(cylinders: list)->None:
 
      
     
+#smallCylNpyPath = r"C:\Users\Владимир\Desktop\BOTAY!\analytical-mechanics\12_47\blenderAnimation\smallCenter.npy"
+#bigCylNpyPath = r"C:\Users\Владимир\Desktop\BOTAY!\analytical-mechanics\12_47\blenderAnimation\hollowCenter.npy"
+#cylParametrsPath = r"C:\Users\Владимир\Desktop\BOTAY!\analytical-mechanics\12_47\blenderAnimation\cylParametrs.npy"
 
-smallCylCenter = np.load(r"C:\Users\Владимир\Desktop\BOTAY!\analytical-mechanics\12_47\blenderAnimation\smallCenter.npy")
-bigCylCenter = np.load(r"C:\Users\Владимир\Desktop\BOTAY!\analytical-mechanics\12_47\blenderAnimation\hollowCenter.npy")
-cylParametrs = np.load(r"C:\Users\Владимир\Desktop\BOTAY!\analytical-mechanics\12_47\blenderAnimation\cylParametrs.npy")
+smallCylNpyPath = r"C:\Users\kaQtu\OneDrive\Рабочий стол\botay\analytical-mechanics\12_47\blenderAnimation\smallCenter.npy"
+bigCylNpyPath = r"C:\Users\kaQtu\OneDrive\Рабочий стол\botay\analytical-mechanics\12_47\blenderAnimation\hollowCenter.npy"
+cylParametrsPath = r"C:\Users\kaQtu\OneDrive\Рабочий стол\botay\analytical-mechanics\12_47\blenderAnimation\cylParametrs.npy"
+
+smallCylCenter = np.load(smallCylNpyPath)
+bigCylCenter = np.load(bigCylNpyPath)
+cylParametrs = np.load(cylParametrsPath)
 
 createKeyFrames(createScene(cylParametrs))
     
