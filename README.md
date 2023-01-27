@@ -5,18 +5,17 @@
 
 ### [Задача 12.47](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/README.md)
 
+![animation_1](https://user-images.githubusercontent.com/101532383/215155932-0a3576e2-8b5a-48d8-9f51-e368bde90a1b.gif)
+
+
+
+https://user-images.githubusercontent.com/101532383/215155970-18c8bd82-0c06-4915-a1c1-1d2689fb45a4.mp4
+
 
  
-<img align="center" width="480" height="240" src="https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_47/12_47.gif">
-
-<img align="center" width="480" height="270" src="https://media4.giphy.com/media/iUFeGUjZHuAyMBIFmv/giphy.gif?cid=790b7611b3b1a99baa3a03cd85f91ba2c79861b957b7135d&rid=giphy.gif&ct=g">
-
-
 ### [Задача 12.37](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/README.md)
 
-<img align="center" width="480" height="120" src="https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/12_37/12_37.gif">
-
-
+![12_37](https://user-images.githubusercontent.com/101532383/215156103-355ed38e-3be6-4a55-832c-5a52a6a49f16.gif)
 
 
 #### Библиотеки, используемые в проекте
