@@ -2,9 +2,9 @@
 
 ### Конспекты
 
-- [Сочетания клавиш blender](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/keys.md)
-- [Изменение положения и вращение куба](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/SimpleCubeAnimation.md)
-- [Создание тел, и изменение их положения](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/CubeCreation.md)
+- [Сочетания клавиш blender](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/BlenderScriptingSynopsis/keys.md)
+- [Изменение положения и вращение куба](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/BlenderScriptingSynopsis/SimpleCubeAnimation.md)
+- [Создание тел, и изменение их положения](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/BlenderScriptingSynopsis/CubeCreation.md)
 
 ### Статьи 
 
@@ -15,4 +15,4 @@
 
 ##### Сочетание клавиш
 
-- [Необходимые сочетания()](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/BlenderScriptingSynopsis/Blender%203.0%20Shortcuts%20v1.2.pdf)
+- [Необходимые сочетания()](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/BlenderScriptingSynopsis/Blender%203.0%20Shortcuts%20v1.2.pdf)
