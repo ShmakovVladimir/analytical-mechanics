@@ -15,6 +15,13 @@ https://user-images.githubusercontent.com/101532383/215155970-18c8bd82-0c06-4915
 
 ![12_37](https://user-images.githubusercontent.com/101532383/215156103-355ed38e-3be6-4a55-832c-5a52a6a49f16.gif)
 
+### [Задача 18.30 - АФЧХ системы](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/18_30/main.ipynb)
+
+![Alt text](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/18_30/beta_0.1_alpha_0.1.svg)
+
+### [Задача 18.43 - АФЧХ системы](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/18_43/main.ipynb)
+
+![Alt text](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/18_43/18_43Plot.png)
 
 #### Библиотеки, используемые в проекте
 - [Sympy - symbolic python](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/sympyLibConspect/sympyLib.ipynb)
