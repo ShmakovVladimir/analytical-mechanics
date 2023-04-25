@@ -26,6 +26,11 @@ https://user-images.githubusercontent.com/101532383/215155970-18c8bd82-0c06-4915
 ### [Трубка прямых путей для системы состоящей из массы, движущейся без трения вдоль оси](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/seminar_9/main.ipynb)
 
 
+
+https://user-images.githubusercontent.com/101532383/234396630-7aa583f2-a0cb-4e44-a9fd-35b96f77ea37.mp4
+
+
+
 #### Библиотеки, используемые в проекте
 - [Sympy - symbolic python](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/sympyLibConspect/sympyLib.ipynb)
 - [Blender API](https://github.com/ShmakovVladimir/analytical-mechanics/blob/main/usedLibraries/BlenderScriptingSynopsis/README.md)
